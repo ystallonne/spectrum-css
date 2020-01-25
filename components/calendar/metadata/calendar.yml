@@ -21,13 +21,13 @@ examples:
            <table role="presentation" class="spectrum-Calendar-table">
               <thead role="presentation">
                  <tr role="row">
-                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Sunday">S</abbr></th>
-                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Monday">M</abbr></th>
-                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Tuesday">T</abbr></th>
-                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Wednesday">W</abbr></th>
-                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Thursday">T</abbr></th>
-                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Friday">F</abbr></th>
-                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Saturday">S</abbr></th>
+                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Sunday">SUN</abbr></th>
+                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Monday">MON</abbr></th>
+                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Tuesday">TUE</abbr></th>
+                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Wednesday">WED</abbr></th>
+                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Thursday">THU</abbr></th>
+                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Friday">FRI</abbr></th>
+                    <th role="columnheader" scope="col" class="spectrum-Calendar-tableCell"><abbr class="spectrum-Calendar-dayOfWeek" title="Saturday">SAT</abbr></th>
                  </tr>
               </thead>
               <tbody role="presentation">
